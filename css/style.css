@@ -393,3 +393,31 @@ template {
 Joshua Linus
 My Personal Code
  */
+
+body {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	margin-top: 30px;
+}
+h1 {
+}
+p {
+	padding-bottom: 8px;
+	padding-top: 20px;
+}
+label {
+	font-size: 18px;
+}
+input{
+	border: 0;
+	background-color: #E8E8E8;
+	padding: 5px 5px 5px 5px;
+	font-size: 16px;
+	border-radius: 5px;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+}
+
+
