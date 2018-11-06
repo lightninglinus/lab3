@@ -409,6 +409,7 @@ h1 {
 	font-weight: bold;
 	color: green;
 	font-size: 45px;
+	font-family: 'Roboto', sans-serif;
 }
 h3 {
 	color:  #404040;
@@ -438,6 +439,8 @@ button {
 	width: 150px;
 	height: 40px;
 	background-color: green;
+	font-family: 'Dancing Script', cursive;
+	font-size: 22px;
 }
 
 .card {	
